@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\CodeStored\Junior\LapTrinhWeb\workspace2,0\.metadata\.plugins\org.eclipse.jdt.core
+899209043.index
+3832371742.index
+1865797976.index
